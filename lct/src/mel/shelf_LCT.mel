@@ -1,0 +1,8 @@
+// This is a Maya shelf stub, we load it and fill it in through code
+global proc shelf_LCT () {
+    global string $gBuffStr;
+    global string $gBuffStr0;
+    global string $gBuffStr1;
+
+
+}
