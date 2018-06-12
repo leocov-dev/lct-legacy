@@ -3,7 +3,7 @@
 ![license](https://img.shields.io/badge/license-MIT-A31F34.svg?style=flat)
 
 ## Description
-This repository is for historical reference and the source code may not be functional in current versions of Maya.
+This repository is for historical reference and the source code may not be functional in current versions of Maya. Some functionality relies on web services that are no longer active, so auto-updating and error reporting features do not work.
 
 This is a suite of Maya artist tools developed between 2013 and 2017.  It was targeted at Maya 2016 but should be compatible with other versions.
 
