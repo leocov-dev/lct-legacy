@@ -7,7 +7,7 @@ This repository is for historical reference and the source code may not be funct
 
 This is a suite of Maya artist tools developed between 2013 and 2017.  It was targeted at Maya 2016 but should be compatible with other versions.
 
-See the [Releases](/releases/latest) page for pre-built packages.
+See the [Releases](/releases) page for pre-built packages.
 
 #### Notes of Interest
 * The tools were designed to be artist friendly. They installed with one command by adding a shelf icon to the current shelf.
